@@ -15,8 +15,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/%C3%B6mer-faruk-k%C3%BC%C3%A7%C3%BCk%C3%B6nder-69642b1bb#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/%C3%B6mer-faruk-k%C3%BC%C3%A7%C3%BCk%C3%B6nder-69642b1bb#gh-light-mode-only#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/omerfaruk0k0)
-[![website](./img/instagram-dark.svg)](https://instagram.com/omerfaruk0k0)
+[![website](./img/instagram-light.svg)](https://instagram.com/omerfaruk.k0)
+[![website](./img/instagram-dark.svg)](https://instagram.com/omerfaruk.k0)
 
 ### Languages and Tools:
 
@@ -44,5 +44,5 @@
 </details>
 
 [github]: https://github.com/kajuboii
-[instagram]: https://instagram.com/omerfaruk0k0
+[instagram]: https://instagram.com/omerfaruk.k0
 [linkedin]: https://www.linkedin.com/in/%C3%B6mer-faruk-k%C3%BC%C3%A7%C3%BCk%C3%B6nder-69642b1bb/
