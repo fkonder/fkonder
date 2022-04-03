@@ -1,10 +1,12 @@
-# Hi there, I'm Ömer Faruk - aka [kajuboii][github] 👋 
+# Hi there, I'm Ömer Faruk Küçükönder - aka [kajuboii][github] 👋 
 
 
 ## I'm just student likes coding and researching
 
-- I'm still learning Java but I love Python and C++ too.
+- I'm still learning *Java* but I love **Python** and **C++** too.
 - I'm CompSci student and I'm sharing what I learned at school and my own studies in this profile.
+- On *Monday evenings* I'm trying to add new repos or update my repos what I have learned about my learnings.
+- I can help you to add the Turkish language option to your projects, you can send me an e-mail for this.
 
 ### Connect with me:
 
