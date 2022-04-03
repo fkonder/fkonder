@@ -39,9 +39,19 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajuboii&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <img align="left" alt="kajuboii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajuboii&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
+
+<details>
+  <summary>:rocket: Top Langs</summary>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajuboii&layout=compact)](https://github.com/kajuboii/github-readme-stats)
+  
+</details>
+
+
+
 
 [github]: https://github.com/kajuboii
 [instagram]: https://instagram.com/omerfaruk.k0
