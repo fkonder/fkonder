@@ -3,9 +3,10 @@
 
 ## I'm just student likes coding and researching
 
-- I'm still learning *Java* but I love **Python** and **C++** too.
-- I'm CompSci student and I'm sharing what I learned at school and my own studies in this profile.
-- On *Monday evenings* I'm trying to add new repos or update my repos what I have learned about my learnings.
+- I'm still learning *Java* but I love learn new things.
+- I'm Computer Engineering student.
+- I share what I learned at school and my own studies in this profile.
+- I usually write my codes on KDE neon(Ubuntu-based KDE distro).
 - I can help you to add the Turkish language option to your projects, you can send me an e-mail for this.
 
 ### Connect with me:
@@ -20,8 +21,6 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
