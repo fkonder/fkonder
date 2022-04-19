@@ -6,8 +6,7 @@
 - I'm still learning *Java* but I love learn new things.
 - I'm Computer Engineering student.
 - I share what I learned at school and my own studies in this profile.
-- I usually write my codes on KDE neon(Ubuntu-based KDE distro).
-- I can help you to add the Turkish language option to your projects, you can send me an e-mail for this.
+- I usually write my codes on Ubuntu with awesomewm.
 
 ### Connect with me:
 
