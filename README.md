@@ -8,7 +8,7 @@
 - I'm still learning *Java and Springboot* but I love learn new things.
 - I'm Computer Engineering student.
 - I share what I learned at school and my own studies in this profile.
-- I'm currently using Linux Mint Distro with i3WM.
+- I'm currently using Manjaro Linux with i3WM.
 
 ### Connect with me:
 
