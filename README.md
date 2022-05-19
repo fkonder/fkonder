@@ -1,7 +1,7 @@
-# Hi there, I'm Ömer Faruk Küçükönder - aka [kajuboii][github] 👋 
+# Hi there, I'm Ömer Faruk Küçükönder - aka [fkucukonder][github] 👋 
 
 <p align="center"> Visitor Counter 🕵🏼</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{kajuboii}/count.svg" alt="Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{fkucukonder}/count.svg" alt="Visitor's Count" /></p>
 
 ## I'm just student likes coding and researching
 
@@ -35,7 +35,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="kajuboii's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajuboii&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ <img align="left" alt="fkucukonder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kajuboii&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
 
 </details>
@@ -43,13 +43,13 @@
 <details>
   <summary>:rocket: Top Langs</summary>
   
-  <img align="left" alt="kajuboii's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kajuboii&layout=compact&langs_count=8&theme=tokyonight" />
+  <img align="left" alt="fkucukonder's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kajuboii&layout=compact&langs_count=8&theme=tokyonight" />
   
 </details>
 
 
 
 
-[github]: https://github.com/kajuboii
+[github]: https://github.com/fkucukonder
 [instagram]: https://instagram.com/omerfaruk.k0
 [linkedin]: https://www.linkedin.com/in/%C3%B6mer-faruk-k%C3%BC%C3%A7%C3%BCk%C3%B6nder-69642b1bb/
