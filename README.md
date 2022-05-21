@@ -1,16 +1,13 @@
 # Hi there, I'm Ömer Faruk Küçükönder - aka [fkucukonder][github] 👋 
 
-<p align="center"> Visitor Counter 🕵🏼</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{fkucukonder}/count.svg" alt="Visitor's Count" /></p>
-
 ## I'm just student likes coding and researching
 
-- I'm still learning *Java and Springboot* but I love learn new things.
-- I'm Computer Engineering student.
-- I share what I learned at school and my own studies in this profile.
-- I'm currently using Manjaro Linux with i3WM.
+#### - I'm still learning *Java and Springboot* but I love learn new things.
+#### - I'm Computer Engineering student.
+#### - I share what I learned at school and my own studies in this profile.
+#### - I'm currently using Manjaro Linux with i3WM.
 
-### Connect with me:
+## Connect with me:
 
 **You can contact me via mail:omerfaruk0k0@gmail.com**
 
