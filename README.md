@@ -1,11 +1,10 @@
-# Hi there, I'm Ömer Faruk Küçükönder - aka [fkucukonder][github] 👋 
+# Hi there, I'm Ömer Faruk Küçükönder - aka [fkonder][github] 👋 
 
 ## I'm just student likes coding and researching
 
-#### - I'm still learning *Java and Springboot* but I love learn new things.
-#### - I'm Computer Engineering student.
+#### - I'm still learning *Java Spring Framework and Microservices* but I love learn new things.
 #### - I share what I learned at school and my own studies in this profile.
-#### - I'm currently using EndeavourOS Linux with i3WM.
+#### - I'm currently using Ubuntu with GnomeWM.
 
 ## Connect with me:
 
@@ -32,7 +31,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
- <img align="left" alt="fkucukonder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fkucukonder&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+ <img align="left" alt="fkucukonder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=fkonder&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
   
 
 </details>
@@ -40,13 +39,13 @@
 <details>
   <summary>:rocket: Top Langs</summary>
   
-  <img align="left" alt="fkucukonder's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fkucukonder&layout=compact&langs_count=8&theme=tokyonight" />
+  <img align="left" alt="fkucukonder's GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=fkonder&layout=compact&langs_count=8&theme=tokyonight" />
   
 </details>
 
 
 
 
-[github]: https://github.com/fkucukonder
+[github]: https://github.com/fkonder 
 [instagram]: https://instagram.com/omerfaruk.k0
 [linkedin]: https://www.linkedin.com/in/%C3%B6mer-faruk-k%C3%BC%C3%A7%C3%BCk%C3%B6nder-69642b1bb/
