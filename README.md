@@ -1,4 +1,5 @@
 # Hi there, I'm Ömer Faruk Küçükönder - aka [fkonder][github] 👋 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fkonder.fkonder">
 
 ## I'm just student likes coding and researching
 
