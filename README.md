@@ -3,9 +3,9 @@
 
 ## I'm just student likes coding and researching
 
-#### - I'm still learning *Java Spring Framework and Microservices* but I love learn new things.
+#### - You can visite [my website][website] to learn anything about me.
+#### - I'm still learning *Kotlin and Spring Boot* but I love learn new things.
 #### - I share what I learned at school and my own studies in this profile.
-#### - I'm currently using Ubuntu with GnomeWM.
 
 ## Connect with me:
 
@@ -72,7 +72,7 @@
 
 
 
-
+[website]: https://fkonder.dev
 [github]: https://github.com/fkonder 
 [instagram]: https://instagram.com/omerfaruk.k0
 [linkedin]: https://www.linkedin.com/in/%C3%B6mer-faruk-k%C3%BC%C3%A7%C3%BCk%C3%B6nder-69642b1bb/
