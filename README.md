@@ -4,7 +4,7 @@
 ## I'm just student likes coding and researching
 
 #### - You can visite [my website][website] to learn anything about me.
-#### - I'm still learning *Kotlin and Spring Boot* but I love learn new things.
+#### - I'm still learning *React Native and Spring Boot* but I love learn new things.
 #### - I share what I learned at school and my own studies in this profile.
 
 ## Connect with me:
