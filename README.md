@@ -3,13 +3,12 @@
 
 ## I'm just student likes coding and researching
 
-#### - You can visite [my website][website] to learn anything about me.
-#### - I'm still learning *React Native and Spring Boot* but I love learn new things.
-#### - I share what I learned at school and my own studies in this profile.
+#### - You can visite [my website][website] to learn anything about me(my website is now offline but you can access my social media links on my website).
+#### - I share what I learned at my own studies in this profile.
+#### - 📫 How to reach me **fkonderdev@proton.me**
 
 ## Connect with me:
 
-**You can contact me via mail:omerfaruk0k0@gmail.com**
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/%C3%B6mer-faruk-k%C3%BC%C3%A7%C3%BCk%C3%B6nder-69642b1bb#gh-light-mode-only#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -18,16 +17,17 @@
 ### Languages and Tools:
 
 
-
-
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/tr/2/2e/Java_Logo.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" alt="spring" width="60" height="40"/>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a> 
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgreSQL" width="40" height="40"/>
